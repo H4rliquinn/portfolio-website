@@ -2648,6 +2648,7 @@ input, select, textarea {
 				width:60%;
 				display:inline-block;
 				text-align: center;
+				border:1px solid grey;
 			}
 
 		@media screen and (max-width: 736px) {
